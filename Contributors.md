@@ -1137,6 +1137,7 @@ Aakash Gupta
 - [Prathmesh-Yadav](https://github.com/Prathmesh-Yadav0269)
 - [Pratik Joshi](https://github.com/pratikjoshi22)
 - [Praveen Kayala](https://github.com/Praveen6-kms)
+- [Praveen Kumar Purushothaman](https://github.com/praveenscience)
 - [Praveer Ranjan Singh](https://github.com/PRAVEERRANJANSINGH)
 - [Pravin I](https://github.com/motoe-pi)
 - [Prem Shenoy](https://github.com/prs241)
@@ -2082,4 +2083,4 @@ Gayathri Kakumanu
 -[Rahul Majumder](https://github.com/irtrahul2007-IND)
 - [Akash Khatri](https://github.com/AkashKhatri-codes)
 - [Mojtaba Zarreh](https://github.com/MojtabaZarreh)
-- [afrinz](https://github.com/afrinz1)
+- [afrinz](https://github.com/afrinz1))
